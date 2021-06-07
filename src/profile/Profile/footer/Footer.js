@@ -4,7 +4,7 @@ import { Home, Search, ShoppingBag, Video } from "react-feather";
 
 const Footer = () => {
   return (
-    <div calssName="">
+  <div calssName="" >
       <Navbar bg="light" className="d-flex justify-content-around">
         <Home /> <Search /> <Video /> <ShoppingBag />{" "}
         <img

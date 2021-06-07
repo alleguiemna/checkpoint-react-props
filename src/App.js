@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="">
       <Header />
-      <div>
+      <div >
       <img
         src="https://celebrity.tn/wp-content/uploads/2019/02/noura-samet-1024x1024.jpg"
         alt="description"
